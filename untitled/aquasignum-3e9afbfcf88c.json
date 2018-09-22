@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aquasignum-1536590135719",
+  "private_key_id": "3e9afbfcf88ca2e940e9678d80f4adb9954e7dac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCPEzWGbhzLjkzx\nHLtQ/lpueq8FH5qSrLXbEpoBFkJPkH7IrJJIYNmOxXqCFatpVKnMoovLswv8dzUo\nA+WbMjnBjtvS9HUoe3awQ6ILgKM+5IOT7CixxcpzIqk1UWcufAtqf++5bzsMt+1I\nm9gKayvVyS7VDR469ZEALoCPfPqA0nZ4PaNDr1favud6mkSK/SC0TWHKltTwbJ0F\n/1eoyRQKylrHFCALWxt2ePO/kJ9r9Ayvi4zskvi+LnYLJ0thGrBBulLx7acY0Onc\nF9L6TkVl/waY9BO3b64mMf/twjlJnt3ksYQB5rDjp6OcPzf65KWbvbsESswLTuGB\n+N4+FP1zAgMBAAECggEACsHHonB2RcT7JUhNumHalrfZSin9dc2lFprSwrDTvNEB\nAewc9h13U0lRqU92cG2RyUrnS8y4YqZBHt28I5ZRIAEHp1gDKaSutcM//wa66f2a\n+Zd7L8fOgtLg+fCW22Mu0Iux5bU72/xFdidmxNHDR/Lfodu3TCODtV8fAgAZgsSI\npct/KxFMQlaBkvlcMTignpI/4+R1TGbwOpmGQblPgUHvBnVPKEJGd20QOGdItYbw\najiwb+BY3wgWknHiay0EESrs54rG7ZEJJj9qOh7OehmbHTn0iNBC9zWOLDiBe0kT\nx46fq93lTQ+0Tl8N3BIA73Ft4WeWDY8pSRm4mKdrYQKBgQC/v58vtExzVjIF41Wj\nQj4AH1qc/ge2RKHjwlFr8M9OZBIqcUu5dySWABcTa5Y6tuFTVJ3IX8uX063AOf5V\nKc2zdBdbWNLyy06gvplyqrvB/LvGDKeL5wAhfpBEQGrA5YDZpbUWg8kJ3hv3kwJs\nteVRnq7c4omJlEpBoan/UCd06wKBgQC/BFPLOyAl5WyR2XrGoIISLhEWJ0Eo8rcw\nwBt3hFH2bMRMBiuV6keytqhqPpkt+UqG3SPe6ekuCEZv7VSg4qSxQERnujvK5xcM\nOfhpTk5rz6UAztCumh5fV8ReB/NiuCbLKplEqkP4IDLB/ejtMJGdsIbQryKVFVBm\ngRL3DT0XmQKBgEj0eHWnDNtpNTkmSMQIBRz40PogcQC5VjsZCO+fvNBfpMW/O4eC\nPEpSGHWMHqmSQWL6M9o0EHtgz5/usMToVdpsViKsRf6Yuf7Q5gNJ0Iw7Q5pT4D+L\nkXIs/GjrdXKVH5Qvxxmc5JW7izqEFY0VG/4U+QUTsC7HXAVipBJ/BbQnAoGBAIPx\nZEQMej9TAzSXqcQL2Ozf3zOTN+ImDb3h5NcgklEKfmkZFgA+zPm4TArfZIWqHf2c\nQQvYPRZr5uOnZv6ery40e0u/C1AzYeszG9D5oxe7XXl6YhFJKdOn118wVMEK/Nj3\netlAVyTMcOMpFTzJgLwQ1H7Piq66A0havhPilCF5AoGBAK3S3SGqZEC70mxwm9Y4\nh+0v2YsX/VFiXnL3y1FroD05KdvqjDjrdppAUdwQ78IUoIe+lXdKhxcLvLIb3c4b\n/gh0bevtfrrxum5o00ZYWje+GTuajQsc12xYXxC9+9ZQspOpR9vRaVgG0/PYQI91\nCOZPE8AteJaoFBIJBfAMugCs\n-----END PRIVATE KEY-----\n",
+  "client_email": "aquasignum@aquasignum-1536590135719.iam.gserviceaccount.com",
+  "client_id": "115866942646397654416",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aquasignum%40aquasignum-1536590135719.iam.gserviceaccount.com"
+}
